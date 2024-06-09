@@ -1,8 +1,8 @@
 # Introduction  
 
-The project about creating an SPHFluid using a particle system for simulate Tsunami Phoneme.
+The project is about creating an SPHFluid using a particle system for simulate Tsunami Phoneme.
 
-This project froked from [qoopen0815 Repo](https://github.com/qoopen0815/SPHFluid) 
+This project is froked from [qoopen0815 Repo](https://github.com/qoopen0815/SPHFluid) 
 
 # Abstract
 
